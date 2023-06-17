@@ -1,4 +1,3 @@
-
 # Hugh Mann
 
 ## Experience
